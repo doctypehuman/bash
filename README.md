@@ -31,19 +31,12 @@
     <img src="images/bash.jpeg" alt="Logo" width="800" height="450">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BASH As I Understand</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    My attempt in learning Bash and reproducing what I learnt.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    
   </p>
 </p>
 
@@ -63,7 +56,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
