@@ -27,5 +27,6 @@ do
 
 done
 echo "Your Time is UP"			#Final message to inform the user that the countdown is done
+exit
 
 
