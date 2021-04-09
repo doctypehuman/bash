@@ -46,7 +46,7 @@ Below are the topics that I will be covering in my journey.
 - Automation 
 
 
-This work is an ongoing process and I hope to compelete all of the above by March 31 2021. 
+This work is an ongoing process and I hope to compelete all of the above sooner than later. 
 
 
 You can use the scripts that will be made available at your own risk. 
